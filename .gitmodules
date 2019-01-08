@@ -16,3 +16,6 @@
 [submodule "06-Regression"]
 	path = 06-Regression
 	url = https://github.com/EducationShinyAppTeam/06-Regression
+[submodule "07-ANOVA"]
+	path = 07-ANOVA
+	url = https://github.com/EducationShinyAppTeam/07-ANOVA
