@@ -10,3 +10,6 @@
 [submodule "04-Statistical_Inference"]
 	path = 04-Statistical_Inference
 	url = https://github.com/EducationShinyAppTeam/04-Statistical_Inference
+[submodule "05-Probability"]
+	path = 05-Probability
+	url = https://github.com/EducationShinyAppTeam/05-Probability
