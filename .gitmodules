@@ -13,3 +13,6 @@
 [submodule "05-Probability"]
 	path = 05-Probability
 	url = https://github.com/EducationShinyAppTeam/05-Probability
+[submodule "06-Regression"]
+	path = 06-Regression
+	url = https://github.com/EducationShinyAppTeam/06-Regression
