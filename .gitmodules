@@ -4,3 +4,6 @@
 [submodule "02-Data_Description"]
 	path = 02-Data_Description
 	url = https://github.com/EducationShinyAppTeam/02-Data_Description
+[submodule "03-Basic_Probability"]
+	path = 03-Basic_Probability
+	url = https://github.com/EducationShinyAppTeam/03-Basic_Probability
