@@ -19,3 +19,6 @@
 [submodule "07-ANOVA"]
 	path = 07-ANOVA
 	url = https://github.com/EducationShinyAppTeam/07-ANOVA
+[submodule "08-Time_Series"]
+	path = 08-Time_Series
+	url = https://github.com/EducationShinyAppTeam/08-Time_Series
