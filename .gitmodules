@@ -22,3 +22,6 @@
 [submodule "08-Time_Series"]
 	path = 08-Time_Series
 	url = https://github.com/EducationShinyAppTeam/08-Time_Series
+[submodule "09-Sampling"]
+	path = 09-Sampling
+	url = https://github.com/EducationShinyAppTeam/09-Sampling
