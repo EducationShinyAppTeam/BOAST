@@ -28,3 +28,6 @@
 [submodule "10-Categorical_Data"]
 	path = 10-Categorical_Data
 	url = https://github.com/EducationShinyAppTeam/10-Categorical_Data
+[submodule "11-Data_Science"]
+	path = 11-Data_Science
+	url = https://github.com/EducationShinyAppTeam/11-Data_Science
