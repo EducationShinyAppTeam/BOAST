@@ -58,12 +58,12 @@ The apps contained within this project are designed to be used as standalone act
 
 Apps can be run locally on your computer, self-hosted on an [RStudio Server](https://www.rstudio.com/products/rstudio/download-server/), or through hosting managed by [shinyapps.io](https://www.shinyapps.io/). **Note:** There may be a cost associated with larger numbers of concurrent users.
 
-### Key People
+## Key People
 - **Program Supervisor** and **Principal Mentor**: Dennis Pearl (dkp13@psu.edu)
 - **Faculty Mentors**: [Matthew Beckman](https://github.com/mdbeckman) (2017 & 2018) and Priyangi Bulathsinhala (2017)
 - **Maintainers**: [Bob Carey](https://github.com/rpc5102) and Kathleen Smith
 - **2017 BOAST Students**: Alex Chen, Qichao Chen, Jinglin Feng, Zibin Gao, Sitong Liu, Ryan Manigly-Haney, David Robinson, Yingjie Wang (2018 peer mentor), Caihui Xiao, Yuxin Zhang (2017 website coordinator).
 - **2018 BOAST Students**: [Jiajun Gao](https://github.com/jiajungao), [Stephen Li](https://github.com/stephenkl97), [Thomas Mclntyre](https://github.com/tjmcintyre), [Samuel Messer](https://github.com/snmesser), [Angela Ting](https://github.com/angelating26), [Ryan J Voyack](https://github.com/ryanvoyack), Luxin Wang, Zhiliang Zhang, [Yinqi Zhang](https://github.com/AnnaZhang-JMK), [Yubaihe Zhou](https://github.com/YubaiheYJZ5134) (2018 website coordinator).
 
-### Disclaimer
+## Disclaimer
 Because of time constraints, these apps have not yet been thoroughly tested on multiple platforms and by large groups of users. Please send lists of bugs and suggestions for improvement to Dennis Pearl (dkp13@psu.edu). This website is best optimized on Google Chrome.
