@@ -1,3 +1,6 @@
 [submodule "01-Data_Gathering"]
 	path = 01-Data_Gathering
 	url = https://github.com/EducationShinyAppTeam/01-Data_Gathering
+[submodule "02-Data_Description"]
+	path = 02-Data_Description
+	url = https://github.com/EducationShinyAppTeam/02-Data_Description
