@@ -25,3 +25,6 @@
 [submodule "09-Sampling"]
 	path = 09-Sampling
 	url = https://github.com/EducationShinyAppTeam/09-Sampling
+[submodule "10-Categorical_Data"]
+	path = 10-Categorical_Data
+	url = https://github.com/EducationShinyAppTeam/10-Categorical_Data
