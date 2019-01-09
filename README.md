@@ -58,6 +58,12 @@ The apps contained within this project are designed to be used as standalone act
 
 Apps can be run locally on your computer, self-hosted on an [RStudio Server](https://www.rstudio.com/products/rstudio/download-server/), or through hosting managed by [shinyapps.io](https://www.shinyapps.io/). **Note:** There may be a cost associated with larger numbers of concurrent users.
 
+## Downloading
+This book is separated by chapter into submodules, to download the entire book use the command:
+```bash
+git clone --recurse-submodules https://github.com/EducationShinyAppTeam/BOAST
+```
+
 ## Key People
 - **Program Supervisor** and **Principal Mentor**: Dennis Pearl (dkp13@psu.edu)
 - **Faculty Mentors**: [Matthew Beckman](https://github.com/mdbeckman) (2017 & 2018) and Priyangi Bulathsinhala (2017)
