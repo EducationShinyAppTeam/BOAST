@@ -56,7 +56,10 @@ The apps in this collection are the work of undergraduate students majoring in S
 ## Usage
 The apps contained within this project are designed to be used as standalone activities or in conjunction with a lesson. Depending on your needs, you may want to clone the book as a whole or just a select chapter or app. The [BOAST](https://github.com/EducationShinyAppTeam/BOAST) repository is a place for linking the individual projects within each chapter. As apps get updated, releases will trickle up to this level.
 
-Apps can be run locally on your computer, self-hosted on an [RStudio Server](https://www.rstudio.com/products/rstudio/download-server/), or through hosting managed by [shinyapps.io](https://www.shinyapps.io/). **Note:** There may be a cost associated with larger numbers of concurrent users.
+Apps can be run locally on your computer, self-hosted on a [Shiny Server](https://www.rstudio.com/products/shiny/download-server/) or [RStudio Connect](https://www.rstudio.com/products/connect/), or through managed hosting solutions like [shinyapps.io](https://www.shinyapps.io/). **Note:** There may be a cost associated with larger numbers of concurrent users.
+
+### RStudio Connect
+As of RStudio Connect v1.7.6, apps can be [deployed via Git Repository](https://blog.rstudio.com/2019/06/24/rstudio-connect-1-7-6/). This allows apps to self-update any time a commit is pushed to the tracked branch. Each app contains a `manifest.json` file to pull in the required dependencies. See [Git Backed Content](https://docs.rstudio.com/connect/user/git-backed.html) for more information.
 
 ## Downloading
 This book is separated by chapter into submodules, to download the entire book use the command:
