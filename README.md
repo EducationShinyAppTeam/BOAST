@@ -50,7 +50,7 @@ The apps in this collection are the work of undergraduate students majoring in S
   - [Chi-Square Goodness of Fit Test](https://github.com/EducationShinyAppTeam/ChiSquare_Goodness_of_Fit_Test)
   - [Chi-Square Independence Test](https://github.com/EducationShinyAppTeam/ChiSquare_Independence_Test)
 - [**Chapter 11: Data Science**](https://github.com/EducationShinyAppTeam/11-Data_Science)
-  - [Data Science App](https://github.com/EducationShinyAppTeam/11-Data_Science)
+  - [Data Science App](https://github.com/EducationShinyAppTeam/Data_Science_App)
   - [Log Transformations](https://github.com/EducationShinyAppTeam/Log_Transformations)
 
 ## Usage
