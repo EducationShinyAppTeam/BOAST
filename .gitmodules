@@ -1,33 +1,33 @@
 [submodule "01-Data_Gathering"]
 	path = 01-Data_Gathering
-	url = https://github.com/EducationShinyAppTeam/01-Data_Gathering
+	url = ../01-Data_Gathering
 [submodule "02-Data_Description"]
 	path = 02-Data_Description
-	url = https://github.com/EducationShinyAppTeam/02-Data_Description
+	url = ../02-Data_Description
 [submodule "03-Basic_Probability"]
 	path = 03-Basic_Probability
-	url = https://github.com/EducationShinyAppTeam/03-Basic_Probability
+	url = ../03-Basic_Probability
 [submodule "04-Statistical_Inference"]
 	path = 04-Statistical_Inference
-	url = https://github.com/EducationShinyAppTeam/04-Statistical_Inference
+	url = ../04-Statistical_Inference
 [submodule "05-Probability"]
 	path = 05-Probability
-	url = https://github.com/EducationShinyAppTeam/05-Probability
+	url = ../05-Probability
 [submodule "06-Regression"]
 	path = 06-Regression
-	url = https://github.com/EducationShinyAppTeam/06-Regression
+	url = ../06-Regression
 [submodule "07-ANOVA"]
 	path = 07-ANOVA
-	url = https://github.com/EducationShinyAppTeam/07-ANOVA
+	url = ../07-ANOVA
 [submodule "08-Time_Series"]
 	path = 08-Time_Series
-	url = https://github.com/EducationShinyAppTeam/08-Time_Series
+	url = ../08-Time_Series
 [submodule "09-Sampling"]
 	path = 09-Sampling
-	url = https://github.com/EducationShinyAppTeam/09-Sampling
+	url = ../09-Sampling
 [submodule "10-Categorical_Data"]
 	path = 10-Categorical_Data
-	url = https://github.com/EducationShinyAppTeam/10-Categorical_Data
+	url = ../10-Categorical_Data
 [submodule "11-Data_Science"]
 	path = 11-Data_Science
-	url = https://github.com/EducationShinyAppTeam/11-Data_Science
+	url = ../11-Data_Science
