@@ -34,6 +34,6 @@
 [submodule "12-Stochastic_Processes"]
 	path = 12-Stochastic_Processes
 	url = ../12-Stochastic_Processes
-[submodule "13-Other_Disciplines"]
-	path = 13-Other_Disciplines
-	url = ../13-Other_Disciplines
+[submodule "13-Stochasticity_in_Biology"]
+	path = 13-Stochasticity_in_Biology
+	url = ../13-Stochasticity_in_Biology
