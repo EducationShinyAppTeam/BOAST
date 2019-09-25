@@ -31,3 +31,9 @@
 [submodule "11-Data_Science"]
 	path = 11-Data_Science
 	url = ../11-Data_Science
+[submodule "12-Stochastic_Processes"]
+	path = 12-Stochastic_Processes
+	url = ../12-Stochastic_Processes
+[submodule "13-Other_Disciplines"]
+	path = 13-Other_Disciplines
+	url = ../13-Other_Disciplines
