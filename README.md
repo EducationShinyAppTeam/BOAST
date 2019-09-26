@@ -32,7 +32,6 @@ The apps in this collection are the work of undergraduate students majoring in S
   - [Waiter Experiment](https://github.com/EducationShinyAppTeam/Waiter_Experiment)
 - [**Chapter 5: Probability**](https://github.com/EducationShinyAppTeam/05-Probability)
   - [Bayes Theorem](https://github.com/EducationShinyAppTeam/Bayes_Theorem)
-  - [Homogeneous Poisson Process](https://github.com/EducationShinyAppTeam/Homogeneous_Poisson_Process)
   - [Matching Distributions](https://github.com/EducationShinyAppTeam/Matching_Distributions)
 - [**Chapter 6: Regression**](https://github.com/EducationShinyAppTeam/06-Regression)
   - [Assumptions](https://github.com/EducationShinyAppTeam/Assumptions)
@@ -58,8 +57,8 @@ The apps in this collection are the work of undergraduate students majoring in S
   - [Data Visualization App](https://github.com/EducationShinyAppTeam/Data_Visualization)
   - [Log Transformations](https://github.com/EducationShinyAppTeam/Log_Transformations)
 - [**Chapter 12: Stochastic Processes**](https://github.com/EducationShinyAppTeam/12-Stochastic_Processes)
-  - Coming Soon!
-- [**Chapter 13: Stochasticity in Biology**](https://github.com/EducationShinyAppTeam/13-Stochasticity_in_Biology)
+  - [Homogeneous Poisson Process](https://github.com/EducationShinyAppTeam/Homogeneous_Poisson_Process)
+- [**Chapter 13: Biology**](https://github.com/EducationShinyAppTeam/13-Biology)
   - [Life Table](https://github.com/EducationShinyAppTeam/Life_Table)
 
 ## Usage
