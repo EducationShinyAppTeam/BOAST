@@ -5,7 +5,7 @@ The apps in this collection are the work of undergraduate students majoring in S
 :globe_with_meridians: **Website:** https://shinyapps.science.psu.edu
 
 ## Table of Contents
-- [**Chapter 1: Data Gathering**](https://github.com/EducationShinyAppTeam/01-Data_Gathering)
+- [**Chapter 1: Data Gathering**](../01-Data_Gathering)
   - [Bias and Reliability](https://github.com/EducationShinyAppTeam/Bias_and_Reliability)
   - [Mouse Experiment on Random Assignment](https://github.com/EducationShinyAppTeam/Mouse_Experiment_on_Random_Assignment)
   - [Survey Bias](https://github.com/EducationShinyAppTeam/Survey_Bias)
