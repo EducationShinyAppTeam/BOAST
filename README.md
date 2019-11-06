@@ -33,6 +33,7 @@ The apps in this collection are the work of undergraduate students majoring in S
 - [**Chapter 5: Probability**](https://github.com/EducationShinyAppTeam/05-Probability)
   - [Bayes Theorem](https://github.com/EducationShinyAppTeam/Bayes_Theorem)
   - [Matching Distributions](https://github.com/EducationShinyAppTeam/Matching_Distributions)
+  - [Probability Application](https://github.com/EducationShinyAppTeam/Probability_Application)
 - [**Chapter 6: Regression**](https://github.com/EducationShinyAppTeam/06-Regression)
   - [Assumptions](https://github.com/EducationShinyAppTeam/Assumptions)
   - [Overfitting](https://github.com/EducationShinyAppTeam/Overfitting)
@@ -60,6 +61,7 @@ The apps in this collection are the work of undergraduate students majoring in S
   - [Homogeneous Poisson Process](https://github.com/EducationShinyAppTeam/Homogeneous_Poisson_Process)
 - [**Chapter 13: Biology**](https://github.com/EducationShinyAppTeam/13-Biology)
   - [Life Table](https://github.com/EducationShinyAppTeam/Life_Table)
+  - [Population Growth](https://github.com/EducationShinyAppTeam/Population_Growth)
 
 ## Usage
 The apps contained within this project are designed to be used as standalone activities or in conjunction with a lesson. Depending on your needs, you may want to clone the book as a whole or just a select chapter or app. The [BOAST](https://github.com/EducationShinyAppTeam/BOAST) repository is a place for linking the individual projects within each chapter. As apps get updated, releases will trickle up to this level.
