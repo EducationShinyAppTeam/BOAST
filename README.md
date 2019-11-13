@@ -33,7 +33,7 @@ The apps in this collection are the work of undergraduate students majoring in S
 - [**Chapter 5: Probability**](https://github.com/EducationShinyAppTeam/05-Probability)
   - [Bayes Theorem](https://github.com/EducationShinyAppTeam/Bayes_Theorem)
   - [Matching Distributions](https://github.com/EducationShinyAppTeam/Matching_Distributions)
-  - [Probability Application](https://github.com/EducationShinyAppTeam/Probability_Application)
+  - [Probability Applications](https://github.com/EducationShinyAppTeam/Probability_Applications)
 - [**Chapter 6: Regression**](https://github.com/EducationShinyAppTeam/06-Regression)
   - [Assumptions](https://github.com/EducationShinyAppTeam/Assumptions)
   - [Overfitting](https://github.com/EducationShinyAppTeam/Overfitting)
