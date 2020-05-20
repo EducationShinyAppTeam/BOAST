@@ -93,4 +93,4 @@ git clone --recurse-submodules https://github.com/EducationShinyAppTeam/BOAST
 Please note that this project is released with a [Contributor Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). By participating in this project you agree to abide by its terms.
 
 ## Disclaimer
-Because of time constraints, these apps have not yet been thoroughly tested on multiple platforms and by large groups of users. Please send lists of bugs and suggestions for improvement to Dennis Pearl (dkp13@psu.edu). This website is best optimized on Google Chrome.
+Because of time constraints, these apps have not yet been thoroughly tested on multiple platforms and by large groups of users. Please post bugs to [issues](https://github.com/EducationShinyAppTeam/BOAST/issues) and suggestions for improvement to Dennis Pearl (dkp13@psu.edu). These apps are best optimized for Firefox / Chromium-based browsers.
