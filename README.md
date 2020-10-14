@@ -55,7 +55,7 @@ The apps in this collection are the work of undergraduate students majoring in S
   - [Chi-Square Independence Test](https://github.com/EducationShinyAppTeam/ChiSquare_Independence_Test)
   - [Odds Ratio](https://github.com/EducationShinyAppTeam/Odds_Ratio)
 - [**Chapter 11: Data Science**](https://github.com/EducationShinyAppTeam/11-Data_Science)
-  - [Data Science App](https://github.com/EducationShinyAppTeam/Data_Science_App)
+  - [Data Wrangling](https://github.com/EducationShinyAppTeam/Data_Wrangling)
   - [Data Visualization App](https://github.com/EducationShinyAppTeam/Data_Visualization)
   - [Log Transformations](https://github.com/EducationShinyAppTeam/Log_Transformations)
 - [**Chapter 12: Stochastic Processes**](https://github.com/EducationShinyAppTeam/12-Stochastic_Processes)
