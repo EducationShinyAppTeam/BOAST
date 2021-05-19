@@ -45,6 +45,7 @@ The apps in this collection are the work of undergraduate students majoring in S
   - [ANCOVA](https://github.com/EducationShinyAppTeam/ANCOVA)
   - [ANOVA Models](https://github.com/EducationShinyAppTeam/ANOVA_Models)
   - [Assumptions of ANOVA](https://github.com/EducationShinyAppTeam/Assumptions_of_ANOVA)
+  - [Hasse Diagrams](https://github.com/EducationShinyAppTeam/Hasse_Diagrams)
   - [One-Way ANOVA](https://github.com/EducationShinyAppTeam/OneWay_ANOVA)
 - [**Chapter 8: Time Series**](https://github.com/EducationShinyAppTeam/08-Time_Series)
   - [Time Series Decomposition](https://github.com/EducationShinyAppTeam/Time_Series_Decomposition)
