@@ -36,7 +36,7 @@ The apps in this collection are the work of undergraduate students majoring in S
   - [Matching Distributions](https://github.com/EducationShinyAppTeam/Matching_Distributions)
   - [Probability Applications](https://github.com/EducationShinyAppTeam/Probability_Applications)
 - [**Chapter 6: Regression**](https://github.com/EducationShinyAppTeam/06-Regression)
-  - [Assumptions](https://github.com/EducationShinyAppTeam/Assumptions)
+  - [Regression Assumptions](https://github.com/EducationShinyAppTeam/Regression_Assumptions)
   - [Overfitting](https://github.com/EducationShinyAppTeam/Overfitting)
   - [QQ Plot](https://github.com/EducationShinyAppTeam/QQ_Plot)
   - [Variable Selection](https://github.com/EducationShinyAppTeam/Variable_Selection)
