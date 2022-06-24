@@ -65,6 +65,7 @@ The apps in this collection are the work of undergraduate students majoring in S
   - [Training vs. Testing Dataset Proportions](https://github.com/EducationShinyAppTeam/Training_vs._Testing_Dataset_Proportions)
 - [**Chapter 12: Stochastic Processes**](https://github.com/EducationShinyAppTeam/12-Stochastic_Processes)
   - [Homogeneous Poisson Process](https://github.com/EducationShinyAppTeam/Homogeneous_Poisson_Process)
+  - [Markov Chain Convergence](https://github.com/EducationShinyAppTeam/Markov_Chain_Convergence)
   - [Nonhomogeneous Poisson Process](https://github.com/EducationShinyAppTeam/Nonhomogeneous_Poisson_Process)
 - [**Chapter 13: Biology**](https://github.com/EducationShinyAppTeam/13-Biology)
   - [Life Table](https://github.com/EducationShinyAppTeam/Life_Table)
